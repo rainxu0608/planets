@@ -1,2 +1,5 @@
+results/*               # ignore everything in results folder
+!results/data/*
+
 *.dat
-results/
+!final.dat
